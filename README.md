@@ -1,4 +1,4 @@
-![Docker Image CI](https://github.com/HoussemDellai/ProductsStoreOnKubernetes/workflows/Docker%20Image%20CI/badge.svg)
+![Docker Image CI](https://github.com/HoussemDellai/ProductsStoreOnKubernetes/workflows/Docker%20Image%20CI/badge.svg) #
 
 # ProductsStore on Kubernetes
 
